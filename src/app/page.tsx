@@ -15,6 +15,11 @@ export default function Home() {
         logoWidth={60}
         logoHeight={60}
         buttonText="Join Now"
+        navItems={[
+          { name: 'Home', id: 'home' },
+          { name: 'About', id: 'about' },
+          { name: 'How to Buy', id: 'how-to-buy' },
+        ]}
       />
 
       <BillboardHero
