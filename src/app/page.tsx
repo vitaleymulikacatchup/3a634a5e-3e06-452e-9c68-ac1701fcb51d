@@ -58,13 +58,6 @@ export default function Home() {
           { label: "Terms of Use", onClick: () => {} }
         ]}
       />
-
-      const __randTraceNavbar = { picked: 'NavbarLayoutSplitBottom', len: 9 };
-      const __randTraceHero = { picked: 'BillboardHero', len: 4 };
-      const __randTraceAbout = { picked: 'SplitAbout', len: 3 };
-      const __randTraceHowToBuy = { picked: '3DHTB', len: 2 };
-      const __randTraceTokenomics = { picked: 'ExpandingGridTokenomics', len: 5 };
-      const __randTraceFooter = { picked: 'FooterLogoEmphasisBackgroundGradient', len: 3 };
     </>
   );
 }
