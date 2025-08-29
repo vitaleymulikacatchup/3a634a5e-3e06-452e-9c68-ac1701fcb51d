@@ -5,7 +5,7 @@ import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
 import HowToBuy3D from '@/components/sections/layouts/howtobuy/3DHTB';
 import ExpandingGridTokenomics from '@/components/sections/layouts/tokenomics/ExpandingGridTokenomics';
 import FooterLogoEmphasisBackgroundGradient from '@/components/footer/FooterLogoEmphasisBackgroundGradient';
-import { ButtonHoverBubble } from '@/components/buttons/ButtonHoverBubble';
+import ButtonHoverBubble from '@/components/buttons/ButtonHoverBubble';
 
 export default function Home() {
   return (
